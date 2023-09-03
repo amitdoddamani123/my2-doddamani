@@ -15,6 +15,8 @@ In ---Maryville---, there are lot of activities to enjoy, I personally like to g
 
 ---My favorite spot---
 
+---
+
 Maryville has many spots to visit. I personally like to go to boating in ***Mozingo lake***, it has many variety of birds. There is scenic nature and hills surrounding which add to its explicit treasure.
 * Mozingo lake
 * Parks
