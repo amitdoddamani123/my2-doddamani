@@ -31,4 +31,4 @@ Favorite dishes include:
     * Cakes
 * Pasta
 
-Here is the link to MyStats page:(https://github.com/amitdoddamani123/my2-doddamani/blob/42dbdb1f0ce1d87fbb6ce0211d6501911d83135a/MyStats.md)
+Here is the link to MyStats page:(https://github.com/amitdoddamani123/my2-doddamani/blob/20138685d600312cd067ebfbd6cc41687f4ba546/MyStats.md)
