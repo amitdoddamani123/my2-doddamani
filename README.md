@@ -42,4 +42,13 @@ Sports are integral part of life and practising a sport can help an individual t
 | --- | --- | ---: |
 | Swimming | It teaches one to survive and it helps to internal organs healthy | 8|
 | Chess | It helps to create a strong thiking and make moves in disciplined manner | 14 |
-| Tennis | To develop defence strategy and gain strength | 14 |
+| Tennis | It helps to gain develop defence strategy and gain strength | 14 |
+| Shooting | It helps to develop accuracy & concentration | 20 |
+
+---
+
+### Famous quote by Scientists: ###
+> 
+> "The more I learn, the more I realize how much I don't know" by *** Isaac Newton ***
+> "The true sign of intelligence is not knowledge, but imagination." by *** Albert Einstein ***
+>> "The only limit to our realization of tomorrow will be our doubts of today" by *** Franklin D. Roosevelt ***
