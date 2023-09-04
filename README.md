@@ -38,7 +38,7 @@ Here is the link to MyStats page:(https://github.com/amitdoddamani123/my2-doddam
 ### Different kinds of Sports: ###
 Sports are integral part of life and practising a sport can help an individual to fit, sportive, healthy and active. Here, we have listed different sport which one have to try and along with its benefits.
 
-| :Sport | :Why Recommend it?: | Avg hours per week: |
+| Sport | Why Recommend it? | Avg hours per week |
 | --- | --- | ---: |
 | Swimming | It teaches one to survive and it helps to internal organs healthy | 8|
 | Chess | It helps to create a strong thiking and make moves in disciplined manner | 14 |
