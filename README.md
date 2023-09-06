@@ -58,5 +58,11 @@ Sports are integral part of life and practising a sport can help an individual t
 ### Code Fencing: ###
 ```wordpress
 add_theme_support('post-thumbnails'); 
+get_the_post_thumbnail();
+$thumb_id = get_post_thumbnail_id();
+$thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
+$thumb_url = $thumb_url_array[0];
 
 ```
+**Link for Stack Overflow:**
+[Link](https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url)
