@@ -50,8 +50,8 @@ Sports are integral part of life and practising a sport can help an individual t
 ### Famous quote by Scientists: ###
 > 
 > "The more I learn, the more I realize how much I don't know" by ***Isaac Newton***
-> "The true sign of intelligence is not knowledge, but imagination." by ***Albert Einstein***
->> "The only limit to our realization of tomorrow will be our doubts of today" by ***Franklin D. Roosevelt***
+>> "The true sign of intelligence is not knowledge, but imagination." by ***Albert Einstein***
+>>> "The only limit to our realization of tomorrow will be our doubts of today" by ***Franklin D. Roosevelt***
 
 ---
 
@@ -68,3 +68,6 @@ $thumb_url = $thumb_url_array[0];
 
 **Link for Stack Overflow:**
 [Link](https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url)
+
+---
+
