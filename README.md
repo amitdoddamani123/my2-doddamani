@@ -64,5 +64,7 @@ $thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true
 $thumb_url = $thumb_url_array[0];
 
 ```
+**Link for Code Snippet:** [Code Snippet](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
+
 **Link for Stack Overflow:**
 [Link](https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url)
