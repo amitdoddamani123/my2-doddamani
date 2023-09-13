@@ -69,5 +69,8 @@ $thumb_url = $thumb_url_array[0];
 **Link for Stack Overflow:**
 [Link](https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url)
 
+**Link for index.html:**
+[HTML](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-amitdoddamani123/)
+
 ---
 
